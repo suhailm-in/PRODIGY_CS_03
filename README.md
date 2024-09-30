@@ -19,8 +19,8 @@ This is a simple Python script that evaluates the strength of a password based o
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Password Strength Criteria](#Password Strength Criteria)
-- 
+- [Password Strength Criteria](#password-strength-criteria)
+- [Feedback and Scoring](#feedback-and-scoring)
 
 
 ## Requirements
