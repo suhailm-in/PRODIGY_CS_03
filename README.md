@@ -1,4 +1,4 @@
-# Image Encryption and Decryption Tool
+# Password Complexity Checker
 
 This is a simple Python script that evaluates the strength of a password based on several criteria, including length, use of uppercase and lowercase letters, digits, and special characters. It provides feedback on how strong or weak a password is and gives suggestions for improvement.
 
@@ -15,7 +15,7 @@ This is a simple Python script that evaluates the strength of a password based o
 **Provides a score out of 5** based on the criteria that are met. </br>
 **Gives feedback** to help improve password strength.
      
-# Resources
+## Resources
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -29,20 +29,22 @@ This is a simple Python script that evaluates the strength of a password based o
 
 ## Installation
 
-1. Ensure you have Python 3.x installed.
-2. Download or Clone the repository:
+### Clone the repository
 ```bash
 git clone https://github.com/suhailm-in/PRODIGY_CS_03.git
+```
+```bash
 cd PRODIGY_CS_03
 ```
-3. Run the script using Python:
+
+### Run the script using Python:
 ```bash
-python3 pwd.py
+python3 password.py
 ```
 
-# Usage
+## Usage
 
-## Example
+### Example
 
 Enter a password to check its strength: SecurePass!2024
 
